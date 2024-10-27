@@ -1,4 +1,5 @@
-## Hi there 👋\nI'm Chanran Kim working for the world
+## Hi there 👋
+I'm Chanran Kim working for the world
 
 🔭 I’m currently at CSUF 
 🌱 Major: AI Engineering | Computer Science 
