@@ -5,3 +5,5 @@
 🌱 Major: AI Engineering | Computer Science <br>
 📫 How to reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
 
+![isliese's GitHub stats](https://github-readme-stats.vercel.app/api?username=isliese&hide=contribs,prs&show_icons=true&theme=graywhite)
+
