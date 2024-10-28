@@ -2,8 +2,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-FFDBE6?logo=instagram&logoColor=white&weight=30px&text_color=FFFFFF&title_color=FFFFFF&link={https://www.instagram.com/isliese/})]({https://www.instagram.com/isliese/})
 
 ###### 🕊️ 숙명여자대학교 인공지능공학부 23학번 | Sophomore student @ Sookmyung W. Univ. <br>
-###### 🔭 I’m currently at CSUF <br>
-###### 🌱 Major: AI Engineering | Computer Science <br>
+###### 🕊️ I’m currently at CSUF <br>
+###### 🕊️ Major: AI Engineering | Computer Science <br>
 ###### 📫 How to reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
 
 <!-- 백준 티어 -->
