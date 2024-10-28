@@ -5,6 +5,16 @@
 
 
 <!-- 기본 설명 -->
+''' java
+class AboutMe:
+    name = "Chanran Kim"
+    university = "Sookmyung W. Univ. 🕊️"
+    current = "Exchange Student @ CSUF"
+    major = "AI Engineernig"
+    graduation = "2027"
+    '''
+    
+
 ###### 🕊️ 숙명여자대학교 인공지능공학부 23학번 | Sophomore student @ Sookmyung W. Univ. <br>
 ###### 🕊️ I’m currently at CSUF <br>
 ###### 🕊️ Major: AI Engineering | Computer Science <br>
