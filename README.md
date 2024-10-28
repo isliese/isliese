@@ -1,8 +1,8 @@
 <div align="center">
+    
 <!-- 타이틀  -->
 ### Hi there 👋 <br>I'm Chanran Kim 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-FFDBE6?logo=instagram&logoColor=white&weight=30px&text_color=FFFFFF&title_color=FFFFFF&link={https://www.instagram.com/isliese/})]({https://www.instagram.com/isliese/})
-
 
 
 <!-- 기본 설명 -->
