@@ -9,6 +9,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04)](https://solved.ac/shining04/)
 <a href="https://github.com/isliese"><img style="height:170px" style="border-radius:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&theme=nord&hide_border=true" /></a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&username={isliese}&count_private={true}&custom_title={My Languages}&bg_color={45deg,FFDBE6,6B6BFF,...}&title_color={FFFFFF}&text_color={FFFFFF})](https://github.com/isliese/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
