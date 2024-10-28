@@ -13,12 +13,13 @@
 
 <!-- 깃허브 Top Langs -->
 <a href="https://github.com/isliese/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=45deg,ffe0ea,9494ff&title_color=FFFFFF&text_color=FFFFFF" width="220" height="100" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=45deg,ffe0ea,9494ff&title_color=FFFFFF&text_color=FFFFFF" width="215" height="100" />
 </a>
 
 
 
 <!-- 스킬 뱃지 -->
+<a>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="60" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="60" />
@@ -30,6 +31,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" width="60" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="60" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="60" />
+</a>
 
 
 
