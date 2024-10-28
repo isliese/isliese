@@ -7,7 +7,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04)](https://solved.ac/shining04)
-<a href="https://github.com/isliese"><img style="height:170px" border-radius="30px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/isliese"><img style="height:170px" border-radius="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
