@@ -1,10 +1,11 @@
+<!-- 타이틀  -->
 ### Hi there 👋 <br>I'm Chanran Kim 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-FFDBE6?logo=instagram&logoColor=white&weight=30px&text_color=FFFFFF&title_color=FFFFFF&link={https://www.instagram.com/isliese/})]({https://www.instagram.com/isliese/})
 
+<!-- 기본 설명 -->
 ###### 🕊️ 숙명여자대학교 인공지능공학부 23학번 | Sophomore student @ Sookmyung W. Univ. <br>
 ###### 🕊️ I’m currently at CSUF <br>
 ###### 🕊️ Major: AI Engineering | Computer Science <br>
-###### 📫 Reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
 
 <!-- 백준 티어 -->
 <a href="https://solved.ac/shining04/">
@@ -20,6 +21,8 @@
 <!-- 스킬 뱃지 -->
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="60" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="60" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="60" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="60" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="60" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" width="60" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="60" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="60" />
 
+
+###### 📫 Reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
 
 
 
