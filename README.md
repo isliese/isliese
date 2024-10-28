@@ -40,7 +40,8 @@ What I've worked with
 
 Interested
 <!-- 스킬 뱃지 -->
-
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
 ###### 📫 Reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
 
