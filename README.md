@@ -7,8 +7,6 @@
 ###### 📫 How to reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04)](https://solved.ac/shining04/)
-<a href="https://github.com/isliese"><img style="height:170px" style="border-radius:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&theme=nord&hide_border=true" /></a> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=45deg,FFDBE6,6B6BFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/isliese/github-readme-stats)
 
 
