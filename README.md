@@ -13,7 +13,7 @@
 
 <!-- 깃허브 Top Langs -->
 <a href="https://github.com/isliese/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=45deg,ffe0ea,9494ff&title_color=FFFFFF&text_color=FFFFFF" width="200" height="100" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=45deg,ffe0ea,9494ff&title_color=FFFFFF&text_color=FFFFFF" width="206" height="100" />
 </a>
 
 
