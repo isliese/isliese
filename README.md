@@ -5,7 +5,7 @@
 
 
 <!-- 기본 설명 -->
-''' java
+    '''python
 class AboutMe:
     name = "Chanran Kim"
     university = "Sookmyung W. Univ. 🕊️"
