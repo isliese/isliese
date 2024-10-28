@@ -15,7 +15,7 @@ class AboutMe:
     university = "Sookmyung W. Univ. 🕊️"
     current = "Exchange Student @ CSUF"
     major = "AI Engineering"
-    graduation = "2027"
+    graduation = "Spring 2027"
 ```
 <div align="center">
     
