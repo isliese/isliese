@@ -5,9 +5,9 @@
 🌱 Major: AI Engineering | Computer Science <br>
 📫 How to reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isliese)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04)](https://solved.ac/shining04)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isliese)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
