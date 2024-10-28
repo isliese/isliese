@@ -4,8 +4,8 @@
 ###### 🔭 I’m currently at CSUF <br>
 ###### 🌱 Major: AI Engineering | Computer Science <br>
 ###### 📫 How to reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
-<a> <img style="height:170px" src="[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04)](https://solved.ac/shining04)"/> </a>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04})](https://solved.ac/{shining04})
 <a href="https://github.com/isliese"><img style="height:170px" style="border-radius:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
