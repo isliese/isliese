@@ -28,8 +28,8 @@ class AboutMe:
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04" width="200" height="100" />
 </a>
 <!-- 깃허브 Top Langs -->
-<a href="https://github.com/isliese/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=45deg,ffe0ea,9494ff&title_color=FFFFFF&text_color=FFFFFF" width="215" height="100" />
+<a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=ffe0ea&title_color=FFFFFF&text_color=FFFFFF" width="215" height="100" />
 </a>
 
 <br><br>
