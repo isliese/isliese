@@ -1,4 +1,5 @@
 ### Hi there 👋 <br>I'm Chanran Kim 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-1877f2?logo=instagram&logoColor=white&link={https://www.instagram.com/isliese/})]({https://www.instagram.com/isliese/})
 
 ###### 🕊️ 숙명여자대학교 인공지능공학부 23학번 | Sophomore student @ Sookmyung W. Univ. <br>
 ###### 🔭 I’m currently at CSUF <br>
