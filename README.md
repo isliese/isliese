@@ -4,6 +4,8 @@
 ### Hello World! 👋 <br>I'm Chanran Kim 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-FFDBE6?logo=instagram&logoColor=white&weight=30px&text_color=FFFFFF&title_color=FFFFFF&link={https://www.instagram.com/isliese/})]({https://www.instagram.com/isliese/})
 
+</div> 
+
 
 <!-- 기본 설명 -->
 ```python
@@ -14,7 +16,8 @@ class AboutMe:
     major = "AI Engineering"
     graduation = "2027"
 ```
-
+<div align="center">
+    
 ###### 🕊️ 숙명여자대학교 인공지능공학부 23학번 | Sophomore student @ Sookmyung W. Univ. <br>
 ###### 🕊️ I’m currently at CSUF <br>
 ###### 🕊️ Major: AI Engineering | Computer Science <br>
