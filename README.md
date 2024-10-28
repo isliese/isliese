@@ -4,7 +4,7 @@
 ###### 🕊️ 숙명여자대학교 인공지능공학부 23학번 | Sophomore student @ Sookmyung W. Univ. <br>
 ###### 🕊️ I’m currently at CSUF <br>
 ###### 🕊️ Major: AI Engineering | Computer Science <br>
-###### 📫 How to reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
+###### 📫 Reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu <br>
 
 <!-- 백준 티어 -->
 <a href="https://solved.ac/shining04/">
