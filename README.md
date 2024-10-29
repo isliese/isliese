@@ -2,7 +2,7 @@
     
 <!-- 타이틀  -->
 ### Hello World !<br>I'm Chanran Kim 🥰
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C1C1C1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C1C1C1&title_bg=%23555555&icon=&icon_color=%231A1B19&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-FFDBE6?logo=instagram&logoColor=white&weight=30px&text_color=FFFFFF&title_color=FFFFFF&link={https://www.instagram.com/isliese/})]({https://www.instagram.com/isliese/})
 
 </div>
