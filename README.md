@@ -28,9 +28,8 @@ class AboutMe:
 
 ## Skills
 <!-- 백준 티어 -->
-<a href="https://solved.ac/shining04/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04" width="200" height="100" />
-</a>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04" width="200" height="100" />
+
 <!-- 깃허브 Top Langs -->
 <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=141414&hide=jupyter%20notebook&title_color=FFFFFF&lang_count=8&text_color=FFFFFF" width="215" height="100" />
