@@ -22,7 +22,7 @@ class AboutMe:
 ```
 <div align="center">
     
-###### 🕊️ Sophomore student @ Sookmyung W. Univ. <br>
+###### 🕊️ 2nd student @ Sookmyung W. Univ. <br>
 ###### 🕊️ I’m currently at CSUF <br>
 ###### 🕊️ Major: AI Engineering | Computer Science <br>
 
