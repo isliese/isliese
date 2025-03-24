@@ -14,9 +14,9 @@
 <!-- 기본 설명 -->
 ```python
 class AboutMe:
-    name = "Chanran Kim"
-    university = "Sookmyung W. Univ. 🕊️"
-    current = "Exchange Student @ CSUF"
+    name = "Chanran Kim 🕊"
+    university = "Sookmyung W. Univ. 🇰🇷"
+    current = "Exchange Student @ CSUF 🇺🇸"
     major = "AI Engineering"
     graduation = "Spring 2027"
 ```
