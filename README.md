@@ -24,7 +24,7 @@ class AboutMe:
     
 ###### 🕊️ 3rd year student @ Sookmyung W. Univ. <br>
 ###### 🕊️ Currently @ CSUF <br>
-###### 🕊️ Major: AI Engineering | Computer Science <br>
+###### 🕊️ Major: AI Engineering | Big Data <br>
 
 <br>
 
