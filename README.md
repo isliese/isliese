@@ -17,7 +17,7 @@ class AboutMe:
     name = "Chanran Kim 🕊"
     university = "Sookmyung W. Univ. 🇰🇷"
     current = "Exchange Student @ CSUF 🇺🇸"
-    major = "AI Engineering"
+    major = "AI Engineering, Big Data"
     graduation = "Spring 2027"
 ```
 <div align="center">
