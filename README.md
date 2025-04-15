@@ -15,7 +15,7 @@
 <!-- 기본 설명 -->
 ```python
 class AboutMe:
-    name = "Chanran Kim 🕊"
+    name = "Chanran Kim"
     university = "Sookmyung W. Univ. 🇰🇷"
     current = "Exchange Student @ CSUF 🇺🇸"
     major = "AI Engineering, Big Data"
@@ -27,7 +27,7 @@ class AboutMe:
 
 <br>
 
-### Skills
+### 🛠️ Skills 🛠️
 <!-- 백준 티어 -->
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04" width="200" height="100" />
 
@@ -52,7 +52,13 @@ Interested in
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-<br><br>
+<br><br><br>
+
+### 🏆 Awards 🏆
+**IPS 2024** hosted by 숙명여자대학교 SW중심대학사업단 <br>
+[**Fullyhacks 2025**](https://fullyhacks.acmcsuf.com/) hosted by [ACMCSUF](https://acmcsuf.com/)
+
+<br><br><br>
 
 ###### 📫 Reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu 
 
