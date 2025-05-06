@@ -58,7 +58,7 @@ Interested in
 <br><br><br>
 
 ### 🏆 Awards 🏆
-**1st Place** at **IPS 2024** hosted by 숙명여자대학교 SW중심대학사업단 | [Check project here](https://github.com/dl-tpdnjs/IPS_BingBong)<br> 
+**🥇1st Place** at **IPS 2024** hosted by 숙명여자대학교 SW중심대학사업단 | [Check project here](https://github.com/dl-tpdnjs/IPS_BingBong)<br> 
 **Most Technical** at [**Fullyhacks 2025**](https://fullyhacks.acmcsuf.com/) hosted by [ACMCSUF](https://acmcsuf.com/) | [Check project here](https://github.com/isliese/ASTRO-ASL)
 
 <br><br><br>
