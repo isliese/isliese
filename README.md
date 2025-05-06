@@ -63,7 +63,7 @@ Interested in
 
 <br><br><br>
 
-###### 📫 Reach me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu 
+###### 📫 Reach out to me: shining04@sookmyung.ac.kr | shining04@csu.fullerton.edu 
 
 
 
