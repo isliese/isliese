@@ -32,7 +32,7 @@ class AboutMe:
 
 <!-- 깃허브 Top Langs -->
 <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=141414&hide=jupyter%20notebook,shell,Batchfile&title_color=FFFFFF&lang_count=8&text_color=FFFFFF" width="215" height="100" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=141414&hide=jupyter%20notebook,shell,Batchfile&title_color=FFFFFF&lang_count=8&text_color=FFFFFF" width="250" height="100" />
 </a>
 
 <br><br>
