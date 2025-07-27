@@ -17,7 +17,7 @@
 class AboutMe:
     name = "Chanran Kim"
     university = "Sookmyung W. Univ. 🇰🇷"
-    major = "AI Engineering, Big Data Engineering(Double Major)"
+    major = "AI Engineering, Big Data Engineering (Double Major)"
     graduation = "Spring 2027"
 ```
 <br>
