@@ -17,14 +17,38 @@
 class AboutMe:
     name = "Chanran Kim"
     university = "Sookmyung W. Univ. 🇰🇷"
-    major = "AI Engineering, Big Data Engineering"
+    major = "AI Engineering, Big Data Engineering(Double Major)"
     graduation = "Spring 2027"
 ```
-<div align="center">
-    
+<br>
+<br>
 
+### 👩‍🎓 What I've been doing 
+- 숙명여자대학교 인공지능공학부 학회 **CODE-IT** 부원 : 2023.03 - 2024.08
+- 숙명여자대학교 IT자산관리 리더쉽그룹 **IT's U** 부원 : 2024.03 - present
+- 미국 California State Univ. Fullerton 교환학생 : 2024.08 - 2025.05
+- California State Univ. Fullerton **[ACM](https://acmcsuf.com/) Opensource Team** 부원 및 운영진 : 2024.08 - 2025.05
+- 금융데이터분석학회 [**FIND-A**](https://find-a-ai.github.io/) 운영진 : 2025.07 - present 
+<br>
+
+### 🎉 Certificates
+- ACTFL OPIc - Advanced Mid 
+- Wrtn Technologies - Secretariat Certificate
+- California State Univ. Fulleton - USA Program
+- ACM CSUF - Certificate of Achievement
+<br>
+
+### 🏆 Awards
+- **🥇1st Place** at **IPS 2024** hosted by 숙명여자대학교 SW중심대학사업단 | [Check project here](https://github.com/dl-tpdnjs/IPS_BingBong)<br> 
+- **Most Technical** at [**Fullyhacks 2025**](https://fullyhacks.acmcsuf.com/) hosted by [ACMCSUF](https://acmcsuf.com/) | [Check project here](https://github.com/isliese/ASTRO-ASL)
 
 <br>
+
+<br>
+
+<br>
+
+<div align="center">
 
 ### 🛠️ Skills 🛠️
 <!-- 백준 티어 -->
@@ -53,12 +77,6 @@ class AboutMe:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-<br><br><br>
-
-### 🏆 Awards 🏆
-**🥇1st Place** at **IPS 2024** hosted by 숙명여자대학교 SW중심대학사업단 | [Check project here](https://github.com/dl-tpdnjs/IPS_BingBong)<br> 
-**Most Technical** at [**Fullyhacks 2025**](https://fullyhacks.acmcsuf.com/) hosted by [ACMCSUF](https://acmcsuf.com/) | [Check project here](https://github.com/isliese/ASTRO-ASL)
 
 <br><br><br>
 
