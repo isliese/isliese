@@ -27,7 +27,7 @@ class AboutMe:
 - 숙명여자대학교 인공지능공학부 학회 **CODE-IT** 부원 : 2023.03 - 2024.08
 - 숙명여자대학교 IT자산관리 리더쉽그룹 **IT's U** 부원 : 2024.03 - present
 - 미국 California State Univ. Fullerton 교환학생 : 2024.08 - 2025.05
-- California State Univ. Fullerton **[ACM](https://acmcsuf.com/) Opensource Team** 부원 및 운영진 : 2024.08 - 2025.05
+- California State Univ. Fullerton CS동아리 **[ACM](https://acmcsuf.com/) Opensource Team** 부원 및 운영진 : 2024.08 - 2025.05
 - 금융데이터분석학회 [**FIND-A**](https://find-a-ai.github.io/) 운영진 : 2025.07 - present 
 <br>
 
