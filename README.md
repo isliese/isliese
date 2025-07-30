@@ -28,6 +28,7 @@ class AboutMe:
 - 숙명여자대학교 IT자산관리 리더쉽그룹 **IT's U** 부원 : 2024.03 - present
 - 미국 California State Univ. Fullerton 교환학생 : 2024.08 - 2025.05
 - California State Univ. Fullerton CS동아리 **[ACM](https://acmcsuf.com/) Opensource Team** 부원 및 운영진 : 2024.08 - 2025.05
+- 숙명여자대학교 SW중심대학사업단 Sookmyung Software Star 1기 : 2025.04 - present 
 - 금융데이터분석학회 [**FIND-A**](https://find-a-ai.github.io/) 운영진 : 2025.07 - present 
 <br>
 
