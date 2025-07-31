@@ -34,7 +34,7 @@ class AboutMe:
 <br>
 
 #### 🎉 Certificates
-- ACTFL OPIc (오픽) - Advanced Mid 
+- ACTFL OPIc (오픽) - Advanced Mid (AM)
 - Wrtn Technologies (뤼튼 테크놀로지스) - Secretariat Certificate
 - California State Univ. Fulleton - USA Program
 - ACM CSUF - Certificate of Achievement
