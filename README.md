@@ -29,7 +29,8 @@ class AboutMe:
 - `2024.08 - 2025.05` 미국 California State Univ. Fullerton 교환학생
 - `2024.08 - 2025.05` California State Univ. Fullerton CS동아리 **[ACM](https://acmcsuf.com/) Opensource Software Team** 운영진
 - `2025.04 - present` 숙명여자대학교 SW중심대학사업단 Sookmyung Software Star 1기
-- `2025.07 - present` 금융데이터분석학회 [**FIND-A**](https://find-a-ai.github.io/) 11기 운영진 
+- `2025.07 - present` 금융데이터분석학회 [**FIND-A**](https://find-a-ai.github.io/) 11기 운영진
+- '2025.08 - present' 에스티 PMO 인턴
 <br>
 
 #### 🎉 Certificates
