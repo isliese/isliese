@@ -42,7 +42,7 @@ class AboutMe:
 
 #### 🏆 Awards
 - 숙명여자대학교 SW중심대학사업단 **IPS 해커톤 2024** - **1st Place(대상)** | [Check project here](https://github.com/dl-tpdnjs/IPS_BingBong)<br> 
-- [ACMCSUF](https://acmcsuf.com/) **[Fullyhacks](https://fullyhacks.acmcsuf.com/) 해커톤 2025** - **Most Technical상** | [Check project here](https://github.com/isliese/ASTRO-ASL)
+- **[ACMCSUF](https://acmcsuf.com/)** **[Fullyhacks](https://fullyhacks.acmcsuf.com/) 해커톤 2025** - **Most Technical상** | [Check project here](https://github.com/isliese/ASTRO-ASL)
 
 <br>
 
