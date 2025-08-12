@@ -26,7 +26,7 @@ class AboutMe:
 #### 👩‍🎓 I've been working on..
 - `2023.03 - 2024.08` 숙명여자대학교 인공지능공학부 학회 **CODE-IT** 9기, 10기
 - `2024.03 - present` 숙명여자대학교 IT자산관리 리더쉽그룹 **IT's U** 
-- `2024.08 - 2025.05` California State Univ. Fullerton Exchange Student (Computer Science)
+- `2024.08 - 2025.05` California State Univ. Fullerton Exchange Student (Computer Science) 🇺🇸
 - `2024.08 - 2025.05` California State Univ. Fullerton CS동아리 **[ACM](https://acmcsuf.com/) Open Source   Software Team** 운영진
 - `2025.07 - present` 금융데이터분석학회 [**FIND-A**](https://find-a-ai.github.io/) 11기 운영진
 - `2025.08 - present` 에스티 개발팀 풀스택 개발 직무 인턴
