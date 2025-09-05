@@ -29,7 +29,7 @@ class AboutMe:
 - `2024.08 - 2025.05` California State Univ. Fullerton Exchange Student (Computer Science) 🇺🇸
 - `2025.01 - 2025.05` California State Univ. Fullerton **[ACM CSUF](https://acmcsuf.com/) Open Source Software Team** 운영진
 - `2025.07 - present` 금융데이터분석학회 [**FIND-A**](https://find-a-ai.github.io/) 11기 운영진
-- `2025.08 - present` 에스티 개발팀 풀스택 개발 직무 인턴
+- `2025.08` 에스티 개발팀 풀스택 개발 직무 인턴
 <br>
 
 #### 🎉 Certificates
