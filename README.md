@@ -20,7 +20,7 @@ class AboutMe:
     major = "AI Engineering, Big Data Engineering (Double Major)"
     graduation = "Spring 2027"
 ```
-<div align="end"><a href="https://isliese.github.io/CV.pdf"><span style="font-size:18px;">View my CV</span></a></div>
+###### <div align="end"><a href="https://isliese.github.io/CV.pdf"><span style="font-size:18px;">View my CV</span></a></div>
 <br>
 
 #### 👩‍🎓 I've been working on..
