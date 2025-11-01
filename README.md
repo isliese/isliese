@@ -43,7 +43,7 @@ class AboutMe:
 - `2024.01` Academic Excellence Scholarship (Top 5% by GPA)
 - `2024.05` 숙명여자대학교 SW중심대학사업단 **IPS 해커톤 2024** - **1st Place(대상)** | [Check project here](https://github.com/dl-tpdnjs/IPS_BingBong)<br> 
 - `2025.04` **[ACMCSUF](https://acmcsuf.com/)** **[Fullyhacks](https://fullyhacks.acmcsuf.com/) 해커톤 2025** - **Most Technical상** | [Check project here](https://github.com/isliese/ASTRO-ASL)
-- `2025.09` 대웅재단x숙명여자대학교 **2025 AI 경진대회** - **1st Place(대상)**
+- `2025.09` 대웅재단x숙명여자대학교 **2025 AI 해커톤** - **1st Place(대상)**
 
 <br><br>
 
