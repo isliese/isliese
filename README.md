@@ -37,6 +37,7 @@ class AboutMe:
 - ACTFL OPIc (오픽) - Advanced Mid (AM)
 - Wrtn Technologies (뤼튼 테크놀로지스) - Secretariat Certificate
 - ACM CSUF - Certificate of Achievement
+- ADsP (데이터분석 준전문가)
 <br>
 
 #### 🏆 Awards
