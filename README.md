@@ -76,13 +76,6 @@ class AboutMe:
 <div align="center">
 
 ###### 📫 Reach out to me: shining04@sookmyung.ac.kr
-
-
 <!-- 백준 티어 -->
 <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04" width="200" height="100" />-->
 <!-- 깃허브 Top Langs -->
-
-
-
-
-
