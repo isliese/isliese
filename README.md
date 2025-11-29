@@ -34,9 +34,9 @@ class AboutMe:
 <br>
 
 #### 🎉 Certificates
-- ACTFL OPIc (오픽) - Advanced Mid (AM)
-- Wrtn Technologies (뤼튼 테크놀로지스) - Secretariat Certificate
-- ADsP
+- `2024.06` Wrtn Technologies (뤼튼 테크놀로지스) - Secretariat Certificate
+- `2025.02` ACTFL OPIc (오픽) - Advanced Mid (AM)
+- `2025.11` ADsP
 <br>
 
 #### 🏆 Awards
