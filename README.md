@@ -71,7 +71,7 @@ class AboutMe:
 <!-- 스킬 뱃지 -->
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" width="90"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> 
 
-<br><br><br>
+<br><br>
 
 <div align="center">
 
