@@ -31,6 +31,8 @@ class AboutMe:
 - `2025.07 - present` 금융데이터분석학회 [**FIND-A**](https://find-a-ai.github.io/) 11기 운영진
 - `2025.08` 에스티 개발팀 풀스택 개발 직무 인턴
 - `2025.09 - present` [**Google Developer Group on Campus Sookmyung**](https://sites.google.com/view/dsc-sookmyung/home?authuser=0) 25-26 Member
+- `2025.11 - present` 대웅재단 글로벌 AI 장학생 - 대웅제약 실무 프로젝트 참여
+
 <br>
 
 #### 🎉 Certificates
@@ -43,13 +45,13 @@ class AboutMe:
 - `2024.01` Academic Excellence Scholarship (Top 5% by GPA)
 - `2024.05` 숙명여자대학교 SW중심대학사업단 **IPS 해커톤 2024** - **1st Place(대상)** | [Check project here](https://github.com/dl-tpdnjs/IPS_BingBong)<br> 
 - `2025.04` **[ACMCSUF](https://acmcsuf.com/)** **[Fullyhacks](https://fullyhacks.acmcsuf.com/) 해커톤 2025** - **Most Technical상** | [Check project here](https://github.com/isliese/ASTRO-ASL)
-- `2025.09` 대웅재단x숙명여자대학교 **2025 AI 해커톤** - **1st Place(대상)**
+- `2025.09` 대웅재단x숙명여자대학교 **2025 AI 해커톤** - **1st Place(대상)** | Working on Refactoring..
 
 <br><br>
 
 
 ### 🛠️ Skills
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=141414&hide=jupyter%20notebook,shell,Batchfile&title_color=FFFFFF&lang_count=8&text_color=FFFFFF" width="220" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=141414&hide=jupyter%20notebook,shell,Batchfile&title_color=FFFFFF&lang_count=8&text_color=FFFFFF" width="220" /> -->
 
 
 **📍 I've worked with**
