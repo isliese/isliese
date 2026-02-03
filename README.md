@@ -74,6 +74,11 @@ class AboutMe:
 
 <div align="center">
 
+
+<!-- <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/isliese?pet-id=1" width="1000" height="200"/>
+</a> -->
+
 ###### 📫 Reach out to me: shining04@sookmyung.ac.kr
 <!-- 백준 티어 -->
 <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shining04" width="200" height="100" />-->
