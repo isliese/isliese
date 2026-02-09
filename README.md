@@ -18,7 +18,7 @@ class AboutMe:
     name = "Chanran Kim"
     university = "Sookmyung W. Univ. 🇰🇷"
     major = "AI Engineering, Big Data Engineering (Double Major)"
-    graduation = "Feb 2027"
+    graduation = "Aug 2027"
 ```
 <!-- ###### <div align="end"><a href="https://isliese.github.io/CV.pdf"><span style="font-size:18px;">View my CV</span></a></div> -->
 <br>
