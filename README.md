@@ -32,6 +32,7 @@ class AboutMe:
 - `2025.08` 에스티 개발팀 풀스택 개발 직무 인턴
 - `2025.09 - present` [**Google Developer Group on Campus Sookmyung**](https://sites.google.com/view/dsc-sookmyung/home?authuser=0) 25-26 Member
 - `2025.11 - present` 대웅재단 글로벌 AI 장학생 - 대웅제약 실무 프로젝트 참여
+- `2026.02 - present` 대웅제약 AX혁신팀 인턴
 
 <br>
 
