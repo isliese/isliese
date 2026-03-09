@@ -2,7 +2,7 @@
     
 <!-- 타이틀  -->
 ### Hello World !<br>I'm Chanran Kim 🥰
-###### 🕊️ Junior student @ Sookmyung W. Univ. <br>
+###### 🕊️ Senior student @ Sookmyung W. Univ. <br>
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisliese%2Fhit-counter&count_bg=%231A1B19&title_bg=%23555555&icon=&icon_color=%231A1B19&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <!--<a href="https://instagram.com/isliese">
     <img 
@@ -32,7 +32,7 @@ class AboutMe:
 - `2025.08` 에스티 개발팀 풀스택 개발 직무 인턴
 - `2025.09 - present` [**Google Developer Group on Campus Sookmyung**](https://sites.google.com/view/dsc-sookmyung/home?authuser=0) 25-26 Member
 - `2025.11 - 2026.02` 대웅재단 글로벌 AI 장학생 - 대웅제약 인니사업팀 실무 프로젝트 참여
-- `2026.02 - present` 대웅 AI추진팀 인턴
+- `2026.02 - present` 대웅 경영진직속 AI추진팀 인턴
 
 <br>
 
