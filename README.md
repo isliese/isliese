@@ -37,9 +37,9 @@ class AboutMe:
 <br>
 
 #### 🎉 Certificates
-- `2024.06` Wrtn Technologies (뤼튼 테크놀로지스) - Secretariat Certificate
 - `2025.02` ACTFL OPIc (오픽) - Advanced Mid (AM)
-- `2025.11` ADsP
+- `2025.11` ADsP (데이터 분석 준전문가)
+- `2026.03` SQLD (SQL Developer)
 <br>
 
 #### 🏆 Awards
