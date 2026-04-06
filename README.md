@@ -48,25 +48,24 @@ class AboutMe:
 - `2025.04` **[ACMCSUF](https://acmcsuf.com/)** **[Fullyhacks](https://fullyhacks.acmcsuf.com/) 해커톤 2025** - **Most Technical상** | [Check project here](https://github.com/isliese/ASTRO-ASL)
 - `2025.09` 대웅재단x숙명여자대학교 **AI 해커톤 2025** - **1st Place(대상)** | Private Repo
 - `2026.01` Academic Excellence Scholarship (Top 5% by GPA)
-
+<!--
 <br><br>
 
 
 ### 🛠️ Skills
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isliese&layout=compact&count_private=true&custom_title=My%20Languages&bg_color=141414&hide=jupyter%20notebook,shell,Batchfile&title_color=FFFFFF&lang_count=8&text_color=FFFFFF" width="220" /> -->
 
-
+<!--
 **📍 I've worked with**
 
 <!-- 스킬 뱃지 -->
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white" width="100" height="28"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/> <br>
+<!--<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white" width="100" height="28"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" width="90">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" width="90" > <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white" width="90">
 
 **📍 Tools**
 <!-- 사용 도구들 -->
-<img src="https://img.shields.io/badge/VS Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="60"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="70"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" width="60" height="20"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-
+<!--<img src="https://img.shields.io/badge/VS Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="60"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="70"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" width="60" height="20"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> --> 
 <!-- 
 **📍 Interested in**
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> -->
