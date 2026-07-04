@@ -37,9 +37,9 @@ class AboutMe:
 <br>
 
 #### 🎉 Certificates
-- `2025.02` ACTFL OPIc (오픽) - Advanced Mid (AM)
-- `2025.11` ADsP (데이터 분석 준전문가)
-- `2026.03` SQLD (SQL Developer)
+- ACTFL OPIc - Advanced Mid (AM)
+- ADsP
+- SQLD
 <br>
 
 #### 🏆 Awards
