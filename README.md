@@ -43,12 +43,10 @@ class AboutMe:
 <br>
 
 #### 🏆 Awards
-- `2024.01` Academic Excellence Scholarship (Top 5% by GPA)
 - `2024.05` 숙명여자대학교 SW중심대학사업단 IPS 해커톤 2024 - 1st Place(대상) | [Check project here](https://github.com/dl-tpdnjs/IPS_BingBong)<br> 
 - `2025.04` [ACMCSUF](https://acmcsuf.com/) [Fullyhacks](https://fullyhacks.acmcsuf.com/) 해커톤 2025 - Most Technical상 | [Check project here](https://github.com/isliese/ASTRO-ASL)
 - `2025.09` 대웅재단x숙명여자대학교 AI 해커톤 2025 - 1st Place(대상) | Private Repo
-- `2026.01` Academic Excellence Scholarship (Top 5% by GPA)
-- `2026.06` 2026 Solution Challenge (Chapter Edition) - People's Choice | [Check project here](https://github.com/2026-QUAD-S-Team-2)
+- `2026.06` 2026 GDGoC Solution Challenge (Chapter Edition) - People's Choice | [Check project here](https://github.com/2026-QUAD-S-Team-2)
 <!--
 <br><br>
 
