@@ -47,8 +47,13 @@ class AboutMe:
 - `2025.04` [ACMCSUF](https://acmcsuf.com/) [Fullyhacks](https://fullyhacks.acmcsuf.com/) 해커톤 2025 - Most Technical상 | [Check project here](https://github.com/isliese/ASTRO-ASL)
 - `2025.09` 대웅재단x숙명여자대학교 AI 해커톤 2025 - 1st Place(대상) | Private Repo
 - `2026.06` 2026 GDGoC Solution Challenge (Chapter Edition) - People's Choice | [Check project here](https://github.com/2026-QUAD-S-Team-2)
+<br>
+
+#### 📄 Publications
+- `2026.07` Uncertainty-Aware Adaptive Edge Blocking in Heterophilic Graph Neural Networks | *ACM Transactions on Intelligent Systems and Technology (TIST)* | [DOI](https://doi.org/10.1145/3838191)
 <!--
 <br><br>
+
 
 
 ### 🛠️ Skills
