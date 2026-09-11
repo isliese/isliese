@@ -40,6 +40,7 @@ class AboutMe:
 - ACTFL OPIc - Advanced Mid (AM)
 - ADsP
 - SQLD
+- 정보처리기사
 <br>
 
 #### 🏆 Awards
